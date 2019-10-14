@@ -1,8 +1,8 @@
 #mySidenav a {
-  width: 160px; /* Set a specific width */
+  width: 170px; /* Set a specific width */
   position: fixed; /* Position them relative to the browser window */
   #left: -155px; /* Position them outside of the screen */
-  right: -140px;
+  right: -150px;
   transition: 0.1s; /* Add transition on hover */
   padding: 10px;
   text-decoration: none; /* Remove underline */
