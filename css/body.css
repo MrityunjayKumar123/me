@@ -25,14 +25,14 @@ body {
     padding: 10px;
     text-align: auto;
     color: white;
-    background-image: url(../img/macbook.jpeg);
+    #background-image: url(../img/macbook.jpeg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-color: lavender;
     /* margin-top: -100px; */
-    height: 50%;
+   # height: 50%;
 }
 
 /* Clear floats after the columns */
