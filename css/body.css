@@ -107,7 +107,11 @@ p {
   text-align: justify;
   text-justify: inter-word;
 }
-
+.span {
+    font-weight: 400px;
+    text-align: justify;
+    text-justify: inter-word;
+}
 /***Top Navigation***/
 /* Add a black background color to the top navigation */
 .topnav {
